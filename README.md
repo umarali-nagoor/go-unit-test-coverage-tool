@@ -11,7 +11,7 @@ Show test coverage
 
 Save Cover profile
 
-    $ go test -coverprofile=cover.txt
+    $ go test -coverprofile=cover.txt ./...
 
 Analyse Cover profile
 
